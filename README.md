@@ -92,7 +92,10 @@ Core packages:
 - Künzel et al. (2019). *Metalearners for Estimating Heterogeneous Treatment Effects using Machine Learning*
 - Kennedy (2020). *Optimal Doubly Robust Estimation of Heterogeneous Causal Effects*
 
-## Authors
+## Authors and License
 
 - Giorgio Coppola
 - Xiaohan Wu
+
+The material in this repository is made available under the [MIT license](http://opensource.org/licenses/mit-license.php). 
+
